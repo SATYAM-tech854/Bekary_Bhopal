@@ -6,6 +6,44 @@ body {
   scroll-behavior: smooth;
 }
 
+.box1{
+  margin-left: 40px;
+  border:5px solid rgb(116, 117, 21);
+color: rgb(173, 74, 74);
+width: 1000px;
+display: flex;
+margin: 1em;
+border-radius: 3em;
+padding: 1em;
+font-style: italic;
+}
+.quates{
+
+  text-align: center;
+  color: #a0642c;
+
+}
+.box2{
+  margin-left: 50px;
+  padding-left: 20px;
+  box-sizing: inherit;
+ 
+  border:5px solid rgb(116, 117, 21);
+color: rgb(173, 74, 74);
+width: 1000px;
+display: flex;
+margin: 1em;
+border-radius: 3em;
+padding: 1em;
+font-style: italic;
+}
+
+
+
+
+
+
+
   font-family: 'icomoon' !important;
   speak: none;
   font-style: normal;
