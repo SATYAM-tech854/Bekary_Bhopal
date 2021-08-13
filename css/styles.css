@@ -28,7 +28,15 @@ body {
     font-family: 'Bree Serif', serif;
 
 } 
- 
+.center{
+  text-align: center;
+}
+.h-primary{
+  font-family: 'Bree Serif', serif;
+  font-size: 3.8rem;
+  padding: 12px;
+}
+
 
 
 .box1{
